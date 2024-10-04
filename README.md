@@ -1,4 +1,4 @@
-# My Portfolio ✏️
+# Excel ✏️
 ### Coffee Sales Dashboard Project ☕
 #### Project Overview
 This project showcases an interactive coffee sales dashboard created in Excel. The dashboard visualizes sales performance across coffee types, countries, and top customers, using slicers and timelines for dynamic filtering and analysis.
