@@ -21,8 +21,11 @@ This project showcases an interactive coffee sales dashboard created in Excel. T
 
 ### Technical Skills Demonstrated
 **-Data Transformation:** Consolidating and transforming data with XLOOKUP and INDEX-MATCH.
+<img width="938" alt="Screenshot 2024-10-04 112648" src="https://github.com/user-attachments/assets/d972aade-1145-49ea-8e05-1ed14f0f4e5f">
 
 **-Pivot Tables and Charts:** Creating dynamic pivot tables and charts for effective data visualization.
+<img width="953" alt="Screenshot 2024-10-04 112526" src="https://github.com/user-attachments/assets/1d717f25-2f13-481f-b06d-b7a9f80d8674">
+
 
 **-Dashboard Design:** Applying custom formatting and layout for a professional, user-friendly dashboard.
 
