@@ -26,4 +26,5 @@ This project showcases an interactive coffee sales dashboard created in Excel. T
 
 **-Dashboard Design:** Applying custom formatting and layout for a professional, user-friendly dashboard.
 
+<img width="644" alt="CoffeeDashboard" src="https://github.com/user-attachments/assets/6572be5f-e698-47a6-ae63-b9b75c3baa0a">
 
